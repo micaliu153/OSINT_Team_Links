@@ -569,6 +569,7 @@ Slack Team: https://openosint.slack.com
 [Tagdef](https://tagdef.com/)<br>
 [Tinfoleak](https://tinfoleak.com/)<br>
 [Trends24](http://trends24.in/)<br>
+[TrendMemo](https://trendmemo.com/)<br>
 [TrendsMap](http://trendsmap.com/)<br>
 [Twazzup](http://www.twazzup.com/)<br>
 [twbirthday](http://twbirthday.com/)<br>
